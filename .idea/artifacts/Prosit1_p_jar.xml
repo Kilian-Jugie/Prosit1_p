@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prosit1_p:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prosit1_p_jar</output-path>
+    <root id="archive" name="Prosit1_p.jar">
+      <element id="module-output" name="Prosit1_p" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jnativehook-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
